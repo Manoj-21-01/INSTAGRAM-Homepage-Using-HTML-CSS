@@ -1,1 +1,1 @@
-# INSTAGRAM-Homeoage-Using-HTML-CSS
+# INSTAGRAM-Homepage-Using-HTML-CSS
