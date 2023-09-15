@@ -1,1 +1,1 @@
-# INSTAGRAM-Clone-Using-HTML-CSS
+# INSTAGRAM-Homeoage-Using-HTML-CSS
